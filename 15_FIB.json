@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "question": "__________ is the longest cell in our body.",
+      "answer": "neuron"
+    },
+    {
+      "id": 2,
+      "question": "__________ Impulses travels rapidly in neurons.",
+      "answer": "myelinated"
+    },
+    {
+      "id": 3,
+      "question": "A change in the environment that causes an animal to react is called __________.",
+      "answer": "stimulus"
+    },
+    {
+      "id": 4,
+      "question": "__________ carries the impulse towards the cell body.",
+      "answer": "dendrite"
+    },
+    {
+      "id": 5,
+      "question": "The two antagonistic component of autonomic nervous system are __________ and __________.",
+      "answer": "sympathetic and parasympathetic"
+    },
+    {
+      "id": 6,
+      "question": "A neuron contains all cell organelles except __________.",
+      "answer": "centrioles"
+    },
+    {
+      "id": 7,
+      "question": "__________ maintains the constant pressure inside the cranium.",
+      "answer": "cerebrospinal fluid"
+    },
+    {
+      "id": 8,
+      "question": "__________ and __________ increases the surface area of cerebrum.",
+      "answer": "gyri and sulci"
+    },
+    {
+      "id": 9,
+      "question": "The part of human brain which acts as relay center is __________.",
+      "answer": "thalamus"
+    }
+  ]
