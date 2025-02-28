@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "In leech locomotion is performed by",
+      "options": ["Contraction and relaxation of muscles", "Anterior sucker", "Parapodia", "Setae"]
+    },
+    {
+      "id": 2,
+      "question": "The segments of leech are known as",
+      "options": ["Metameres (somites)", "Proglottids", "Strobila", "All the above"]
+    },
+    {
+      "id": 3,
+      "question": "Pharyngeal ganglion in leech is a part of",
+      "options": ["Nervous system", "Excretory system", "Reproductive system", "Respiratory system"]
+    },
+    {
+      "id": 4,
+      "question": "The brain of leech lies above the",
+      "options": ["Pharynx", "Mouth", "Buccal Cavity", "Crop"]
+    },
+    {
+      "id": 5,
+      "question": "The body of leech has",
+      "options": ["33 segments", "23 segments", "38 segments", "30 segments"]
+    },
+    {
+      "id": 6,
+      "question": "Mammals are ______________ animals.",
+      "options": ["Warm blooded", "Cold blooded", "Poikilothermic", "All the above"]
+    }
+  ]
