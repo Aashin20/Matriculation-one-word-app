@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "What were the three major empires shattered by the end of the First World War?",
+    "options": ["Germany, Austria-Hungary, and the Ottomans", "Germany, Austria-Hungary, and Russia", "Spain, Portugal, and Italy", "Germany, Austria-Hungary, and Italy"],
+    "explanation": "The German, Austro-Hungarian, and Ottoman Empires collapsed due to military defeat and internal unrest following World War I."
+  },
+  {
+    "id": 2,
+    "question": "Which country emerged as the strongest in East Asia towards the close of the nineteenth century?",
+    "options": ["Japan", "China", "Korea", "Mongolia"],
+    "explanation": "Japan's victory in the First Sino-Japanese War (1894-1895) and the Russo-Japanese War (1904-1905) established it as the dominant power in East Asia."
+  },
+  {
+    "id": 3,
+    "question": "Who said 'Imperialism is the highest stage of capitalism'?",
+    "options": ["Lenin", "Marx", "Sun Yat-sen", "Mao Tsetung"],
+    "explanation": "Vladimir Lenin wrote 'Imperialism, the Highest Stage of Capitalism' in 1917, arguing that imperialism was a direct result of capitalist expansion."
+  },
+  {
+    "id": 4,
+    "question": "What is the Battle of Marne remembered for?",
+    "options": ["trench warfare", "air warfare", "submarine warfare", "ship warfare"],
+    "explanation": "The First Battle of the Marne (1914) is significant for halting the German advance into France and leading to the extensive use of trench warfare."
+  },
+  {
+    "id": 5,
+    "question": "To which country did the first Secretary-General of the League of Nations belong?",
+    "options": ["Britain", "France", "Dutch", "USA"],
+    "explanation": "Sir Eric Drummond, the first Secretary-General of the League of Nations, was from Britain and served from 1920 to 1933."
+  },
+  {
+    "id": 6,
+    "question": "Which country was expelled from the League of Nations for attacking Finland?",
+    "options": ["Russia", "Germany", "Italy", "France"],
+    "explanation": "The Soviet Union (Russia) was expelled from the League of Nations in 1939 after invading Finland during the Winter War."
+  }
+]
