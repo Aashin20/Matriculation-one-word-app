@@ -1,0 +1,74 @@
+{
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "The north-south extent of India is",
+      "options": [
+        "3,214 km",
+        "2,500 km",
+        "2,933 km",
+        "2,814 km"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "_____ River is known as ‘Sorrow of Bihar’.",
+      "options": [
+        "Kosi",
+        "Narmada",
+        "Godavari",
+        "Damodar"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A landmass bounded by sea on three sides is referred to as _____.",
+      "options": [
+        "Peninsula",
+        "Coast",
+        "Island",
+        "Strait"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "The Palk Strait and Gulf of Mannar separate India from _____.",
+      "options": [
+        "Sri Lanka",
+        "Goa",
+        "West Bengal",
+        "Maldives"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "The highest peak in South India is",
+      "options": [
+        "Anaimudi",
+        "Ooty",
+        "Kodaikanal",
+        "Jindhagada"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "_____ Plains are formed by the older alluviums.",
+      "options": [
+        "Bhangar",
+        "Bhabar",
+        "Tarai",
+        "Khadar"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Pulicat Lake is located between the states of",
+      "options": [
+        "Tamil Nadu and Andhra Pradesh",
+        "West Bengal and Odisha",
+        "Karnataka and Kerala",
+        "Odisha and Andhra Pradesh"
+      ]
+    }
+  ]
+}

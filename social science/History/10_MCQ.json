@@ -1,0 +1,53 @@
+ [
+    {
+      "id": 1,
+      "question": "_____ established a full-fledged printing press in 1709, at Tranquebar.",
+      "options": [
+        "Ziegenbalg",
+        "Caldwell",
+        "F.W. Ellis",
+        "Meenakshisundaram"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "_____ founded Adi Dravida Mahajana Sabha in 1893.",
+      "options": [
+        "Rettaimalai Srinivasan",
+        "B. R. Ambedkar",
+        "Rajaji",
+        "M. C. Rajah"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "India’s first organised trade union, the Madras Labour Union, was formed in _____.",
+      "options": [
+        "1918",
+        "1917",
+        "1916",
+        "1914"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "_____ was established by the Justice Party Government for the selection of Government officials.",
+      "options": [
+        "Public Service Commission",
+        "Staff Selection Board",
+        "Provincial Staff Recruitment Board",
+        "Staff Selection Commission"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "_____ was the first elected Legislative Council Member from the depressed class in Madras Province.",
+      "options": [
+        "M. C. Rajah",
+        "Rettaimalai Srinivasan",
+        "T.M. Nair",
+        "P. Varadarajulu"
+      ]
+    }
+  ]
+

@@ -1,0 +1,63 @@
+ [
+    {
+      "id": 1,
+      "question": "Who was arrested during the anti-Rowlatt protests in Amritsar?",
+      "options": [
+        "Dr. Saifuddin Kitchlew",
+        "Motilal Nehru",
+        "Mohamed Ali",
+        "Raj Kumar Shukla"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In which session of the Indian National Congress was Non-Cooperation approved?",
+      "options": [
+        "Calcutta",
+        "Bombay",
+        "Madras",
+        "Lucknow"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which among the following was declared as ‘Independence Day’?",
+      "options": [
+        "26th January 1930",
+        "26th December 1929",
+        "16th June 1946",
+        "15th January 1947"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "When was the first Forest Act enacted?",
+      "options": [
+        "1865",
+        "1858",
+        "1911",
+        "1936"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "On 8 January 1933 which day was observed?",
+      "options": [
+        "Temple Entry Day",
+        "Day of Deliverance",
+        "Direct Action Day",
+        "Independence Day"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which Act introduced Provincial Autonomy?",
+      "options": [
+        "Government of India Act, 1935",
+        "1858 Act",
+        "Indian Councils Act, 1909",
+        "Government of India Act, 1919"
+      ]
+    }
+  ]
+

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What were the three major empires shattered by the end of the First World War?",
+    "options": ["Germany, Austria-Hungary, and the Ottomans", "Germany, Austria-Hungary, and Russia", "Spain, Portugal, and Italy", "Germany, Austria-Hungary, and Italy"]
+  },
+  {
+    "id": 2,
+    "question": "Which country emerged as the strongest in East Asia towards the close of the nineteenth century?",
+    "options": ["Japan", "China", "Korea", "Mongolia"]
+  },
+  {
+    "id": 3,
+    "question": "Who said 'Imperialism is the highest stage of capitalism'?",
+    "options": ["Lenin", "Marx", "Sun Yat-sen", "Mao Tsetung"]
+  },
+  {
+    "id": 4,
+    "question": "What is the Battle of Marne remembered for?",
+    "options": ["trench warfare", "air warfare", "submarine warfare", "ship warfare"]
+  },
+  {
+    "id": 5,
+    "question": "To which country did the first Secretary-General of the League of Nations belong?",
+    "options": ["Britain", "France", "Dutch", "USA"]
+  },
+  {
+    "id": 6,
+    "question": "Which country was expelled from the League of Nations for attacking Finland?",
+    "options": ["Russia", "Germany", "Italy", "France"]
+  }
+]
