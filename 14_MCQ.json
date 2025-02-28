@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "question": "Active transport involves",
+      "options": ["all of the above", "movement of molecules from lower to higher concentration", "expenditure of energy", "it is an uphill task"]
+    },
+    {
+      "id": 2,
+      "question": "Water which is absorbed by roots is transported to aerial parts of the plant through",
+      "options": ["xylem", "cortex", "epidermis", "phloem"]
+    },
+    {
+      "id": 3,
+      "question": "During transpiration there is loss of",
+      "options": ["water", "carbon dioxide", "oxygen", "none of the above"]
+    },
+    {
+      "id": 4,
+      "question": "Root hairs are",
+      "options": ["both b and c", "cortical cell", "projection of epidermal cell", "unicellular"]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following process requires energy?",
+      "options": ["active transport", "diffusion", "osmosis", "all of them"]
+    },
+    {
+      "id": 6,
+      "question": "The wall of human heart is made of",
+      "options": ["All of the above", "Endocardium", "Epicardium", "Myocardium"]
+    },
+    {
+      "id": 7,
+      "question": "Which is the correct sequence of blood flow",
+      "options": ["atrium ventricle arteries vein", "ventricle atrium vein arteries", "atrium ventricle veins arteries", "ventricles vein atrium arteries"]
+    },
+    {
+      "id": 8,
+      "question": "A patient with blood group O was injured in an accident and has blood loss. Which group of blood should be used by doctor for transfusion?",
+      "options": ["O group", "AB group", "A or B group", "all blood group"]
+    },
+    {
+      "id": 9,
+      "question": "'Heart of heart' is called",
+      "options": ["SA node", "AV node", "Purkinje fibres", "Bundle of His"]
+    },
+    {
+      "id": 10,
+      "question": "Which one of the following shows correct composition of blood",
+      "options": ["Blood - Plasma + RBC+ WBC +Platelets", "Plasma - Blood + Lymphocyte", "Serum - Blood + Fibrinogen", "Lymph - Plasma + RBC + WBC"]
+    }
+  ]
