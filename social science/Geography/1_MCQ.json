@@ -8,7 +8,8 @@
         "2,500 km",
         "2,933 km",
         "2,814 km"
-      ]
+      ],
+      "explanation": "India extends 3,214 km from north to south, from Kashmir to Kanyakumari."
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
         "Narmada",
         "Godavari",
         "Damodar"
-      ]
+      ],
+      "explanation": "The Kosi River is called the ‘Sorrow of Bihar’ due to its frequent and devastating floods."
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
         "Coast",
         "Island",
         "Strait"
-      ]
+      ],
+      "explanation": "A peninsula is a landform surrounded by water on three sides, such as the Indian subcontinent."
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
         "Goa",
         "West Bengal",
         "Maldives"
-      ]
+      ],
+      "explanation": "The Palk Strait and Gulf of Mannar lie between India and Sri Lanka."
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
         "Ooty",
         "Kodaikanal",
         "Jindhagada"
-      ]
+      ],
+      "explanation": "Anamudi, at 2,695 meters, is the highest peak in South India, located in Kerala."
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
         "Bhabar",
         "Tarai",
         "Khadar"
-      ]
+      ],
+      "explanation": "Bhangar plains are made up of older alluvial deposits and are found in the Gangetic plains."
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
         "West Bengal and Odisha",
         "Karnataka and Kerala",
         "Odisha and Andhra Pradesh"
-      ]
+      ],
+      "explanation": "Pulicat Lake, the second-largest brackish water lake in India, lies between Tamil Nadu and Andhra Pradesh."
     }
   ]
 }
