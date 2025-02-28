@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "question": "Bipolar neurons are found in",
+      "options": ["retina of eye", "cerebral cortex", "embryo", "respiratory epithelium"]
+    },
+    {
+      "id": 2,
+      "question": "Site for processing of vision, hearing, memory, speech, intelligence and thought is",
+      "options": ["brain", "kidney", "ear", "lungs"]
+    },
+    {
+      "id": 3,
+      "question": "In reflex action, the reflex arc is formed by",
+      "options": ["receptor, spinal cord, muscle", "brain, spinal cord, muscle", "muscle, receptor, brain", "receptor, spinal cord, muscle"]
+    },
+    {
+      "id": 4,
+      "question": "Dendrites transmit impulse cell body and axon transmit impulse cell body.",
+      "options": ["towards, away from", "away from, away from", "towards,towards", "away from, towards"]
+    },
+    {
+      "id": 5,
+      "question": "The outer most of the three cranial meninges is",
+      "options": ["duramater", "arachnoid membrane", "piamater", "myelin sheath"]
+    },
+    {
+      "id": 6,
+      "question": "There are pairs of cranial nerves and pairs of spinal nerves.",
+      "options": ["12, 31", "31, 12", "12, 13", "12, 21"]
+    },
+    {
+      "id": 7,
+      "question": "The neurons which carries impulse from the central nervous system to the muscle fibre.",
+      "options": ["efferent neuron", "afferent neurons", "association neuron", "unipolar neuron"]
+    },
+    {
+      "id": 8,
+      "question": "Which nervous band connects the two cerebral hemispheres of brain?",
+      "options": ["corpus callosum", "thalamus", "hypothalamus", "pons"]
+    },
+    {
+      "id": 9,
+      "question": "Node of Ranvier is found in",
+      "options": ["axons", "muscles", "dendrites", "cyton"]
+    },
+    {
+      "id": 10,
+      "question": "Vomiting centre is located in",
+      "options": ["medulla oblongata", "stomach", "cerebrum", "hypothalamus"]
+    },
+    {
+      "id": 11,
+      "question": "Nerve cells do not possess",
+      "options": ["sarcolemma", "neurilemma", "axon", "dendrites"]
+    },
+    {
+      "id": 12,
+      "question": "A person who met with an accident lost control of body temperature, water balance, and hunger. Which of the following part of brain is supposed to be damaged?",
+      "options": ["hypothalamus", "Medulla oblongata", "cerebrum", "pons"]
+    }
+  ]
