@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following sequences is correct regarding the Preamble?",
+    "options": [
+      "Sovereign, Socialist, Secular, Democratic, Republic",
+      "Republic, Democratic, Secular, Socialist, Sovereign",
+      "Sovereign, Republic, Secular, Socialist, Democratic",
+      "Sovereign, Socialist, Secular, Republic, Democratic"
+    ],
+    "explanation": "The correct order in the Preamble of the Indian Constitution is 'Sovereign, Socialist, Secular, Democratic, Republic.'"
+  },
+  {
+    "id": 2,
+    "question": "How many times has the Preamble to the Constitution of India been amended?",
+    "options": [
+      "Once",
+      "Twice",
+      "Thrice",
+      "Never"
+    ],
+    "explanation": "The Preamble has been amended only once by the 42nd Amendment Act of 1976, adding the words 'Socialist,' 'Secular,' and 'Integrity.'"
+  },
+  {
+    "id": 3,
+    "question": "A foreigner can acquire Indian citizenship through:",
+    "options": [
+      "All of the above",
+      "Descent",
+      "Registration",
+      "Naturalisation"
+    ],
+    "explanation": "Indian citizenship can be acquired through birth, descent, registration, and naturalization as per the Citizenship Act of 1955."
+  },
+  {
+    "id": 4,
+    "question": "Find the odd one out.",
+    "options": [
+      "Right to Property",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural and Educational Rights"
+    ],
+    "explanation": "The Right to Property was removed from Fundamental Rights by the 44th Amendment Act, 1978, and is now a legal right under Article 300A."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not an instance of an exercise of a fundamental right?",
+    "options": [
+      "Parents' property is inherited by their children",
+      "Workers from Karnataka go to Kerala to work on the farms",
+      "Christian missions set up a chain of missionary schools",
+      "Men and Women government employees got the same salary."
+    ],
+    "explanation": "Inheritance of property is governed by personal laws and not a fundamental right."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?",
+    "options": [
+      "Right to Constitutional Remedies",
+      "Right to Freedom of Religion",
+      "Right to Equality",
+      "Right to Property"
+    ],
+    "explanation": "Dr. B.R. Ambedkar referred to the Right to Constitutional Remedies (Article 32) as the 'heart and soul' of the Constitution."
+  },
+  {
+    "id": 7,
+    "question": "How can the Fundamental Rights be suspended?",
+    "options": [
+      "If the President orders it during the national emergency",
+      "If the Supreme Court so desires",
+      "If the Prime Minister orders to this effect",
+      "All of the above"
+    ],
+    "explanation": "Fundamental Rights can be suspended only by the President during a National Emergency under Article 359."
+  },
+  {
+    "id": 8,
+    "question": "We borrowed the Fundamental Duties from the:",
+    "options": [
+      "Russian Constitution",
+      "American Constitution",
+      "Canadian Constitution",
+      "Irish Constitution"
+    ],
+    "explanation": "India adopted Fundamental Duties from the Russian (Soviet) Constitution, added by the 42nd Amendment in 1976."
+  },
+  {
+    "id": 9,
+    "question": "Under which Article can a financial emergency be proclaimed?",
+    "options": [
+      "Article 360",
+      "Article 352",
+      "Article 356",
+      "Article 368"
+    ],
+    "explanation": "Financial Emergency can be proclaimed under Article 360 in case of a financial crisis in the country."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following committees/commissions made recommendations about the Centre-State Relations?",
+    "options": [
+      "Sarkaria Commission, Rajamannar Committee, M.N. Venkatachaliah Commission",
+      "Sarkaria Commission, Rajamannar Committee",
+      "Sarkaria Commission, M.N. Venkatachaliah Commission",
+      "Rajamannar Committee, M.N. Venkatachaliah Commission"
+    ],
+    "explanation": "The Sarkaria Commission, Rajamannar Committee, and M.N. Venkatachaliah Commission all studied and recommended changes to Centre-State relations in India."
+  }
+]
