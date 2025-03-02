@@ -3,10 +3,10 @@
     "id": 1,
     "question": "Who was arrested during the anti-Rowlatt protests in Amritsar?",
     "options": [
-      "Dr. Saifuddin Kitchlew",
-      "Motilal Nehru",
-      "Mohamed Ali",
-      "Raj Kumar Shukla"
+      { "option": "Dr. Saifuddin Kitchlew", "isCorrect": true },
+      { "option": "Motilal Nehru", "isCorrect": false },
+      { "option": "Mohamed Ali", "isCorrect": false },
+      { "option": "Raj Kumar Shukla", "isCorrect": false }
     ],
     "explanation": "Dr. Saifuddin Kitchlew was arrested for leading protests against the Rowlatt Act, which led to the Jallianwala Bagh massacre."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "In which session of the Indian National Congress was Non-Cooperation approved?",
     "options": [
-      "Calcutta",
-      "Bombay",
-      "Madras",
-      "Lucknow"
+      { "option": "Calcutta", "isCorrect": true },
+      { "option": "Bombay", "isCorrect": false },
+      { "option": "Madras", "isCorrect": false },
+      { "option": "Lucknow", "isCorrect": false }
     ],
     "explanation": "The Non-Cooperation Movement was approved in the Calcutta session of the INC in September 1920 under Mahatma Gandhi’s leadership."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "Which among the following was declared as ‘Independence Day’?",
     "options": [
-      "26th January 1930",
-      "26th December 1929",
-      "16th June 1946",
-      "15th January 1947"
+      { "option": "26th January 1930", "isCorrect": true },
+      { "option": "26th December 1929", "isCorrect": false },
+      { "option": "16th June 1946", "isCorrect": false },
+      { "option": "15th January 1947", "isCorrect": false }
     ],
     "explanation": "26th January 1930 was declared as ‘Independence Day’ after the Lahore Session of the INC, marking the demand for complete independence."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "When was the first Forest Act enacted?",
     "options": [
-      "1865",
-      "1858",
-      "1911",
-      "1936"
+      { "option": "1865", "isCorrect": true },
+      { "option": "1858", "isCorrect": false },
+      { "option": "1911", "isCorrect": false },
+      { "option": "1936", "isCorrect": false }
     ],
     "explanation": "The first Indian Forest Act was enacted in 1865 by the British to regulate forest use and management."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "On 8 January 1933 which day was observed?",
     "options": [
-      "Temple Entry Day",
-      "Day of Deliverance",
-      "Direct Action Day",
-      "Independence Day"
+      { "option": "Temple Entry Day", "isCorrect": true },
+      { "option": "Day of Deliverance", "isCorrect": false },
+      { "option": "Direct Action Day", "isCorrect": false },
+      { "option": "Independence Day", "isCorrect": false }
     ],
     "explanation": "8 January 1933 was observed as Temple Entry Day by the Indian National Congress to support Dalit access to temples."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "Which Act introduced Provincial Autonomy?",
     "options": [
-      "Government of India Act, 1935",
-      "1858 Act",
-      "Indian Councils Act, 1909",
-      "Government of India Act, 1919"
+      { "option": "Government of India Act, 1935", "isCorrect": true },
+      { "option": "1858 Act", "isCorrect": false },
+      { "option": "Indian Councils Act, 1909", "isCorrect": false },
+      { "option": "Government of India Act, 1919", "isCorrect": false }
     ],
     "explanation": "The Government of India Act, 1935 introduced Provincial Autonomy, allowing elected Indian ministers to govern provinces."
   }
