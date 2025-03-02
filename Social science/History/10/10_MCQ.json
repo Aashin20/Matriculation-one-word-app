@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "_____ established a full-fledged printing press in 1709, at Tranquebar.",
+    "options": [
+      "Ziegenbalg",
+      "Caldwell",
+      "F.W. Ellis",
+      "Meenakshisundaram"
+    ],
+    "explanation": "Bartholomäus Ziegenbalg, a German missionary, established the first printing press in Tranquebar, Tamil Nadu, in 1709."
+  },
+  {
+    "id": 2,
+    "question": "_____ founded Adi Dravida Mahajana Sabha in 1893.",
+    "options": [
+      "Rettaimalai Srinivasan",
+      "B. R. Ambedkar",
+      "Rajaji",
+      "M. C. Rajah"
+    ],
+    "explanation": "Rettaimalai Srinivasan, a Dalit leader, founded the Adi Dravida Mahajana Sabha to fight for the rights of marginalized communities."
+  },
+  {
+    "id": 3,
+    "question": "India’s first organised trade union, the Madras Labour Union, was formed in _____.",
+    "options": [
+      "1918",
+      "1917",
+      "1916",
+      "1914"
+    ],
+    "explanation": "The Madras Labour Union was established in 1918 by B.P. Wadia and V. Kalyanasundaram to improve labor conditions."
+  },
+  {
+    "id": 4,
+    "question": "_____ was established by the Justice Party Government for the selection of Government officials.",
+    "options": [
+      "Public Service Commission",
+      "Staff Selection Board",
+      "Provincial Staff Recruitment Board",
+      "Staff Selection Commission"
+    ],
+    "explanation": "The Public Service Commission was set up by the Justice Party Government to ensure fair selection of government officials."
+  },
+  {
+    "id": 5,
+    "question": "_____ was the first elected Legislative Council Member from the depressed class in Madras Province.",
+    "options": [
+      "M. C. Rajah",
+      "Rettaimalai Srinivasan",
+      "T.M. Nair",
+      "P. Varadarajulu"
+    ],
+    "explanation": "M. C. Rajah became the first elected Legislative Council Member from the depressed classes in Madras Province, advocating for their rights."
+  }
+]

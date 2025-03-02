@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of the Madras Mahajana Sabha?",
+    "options": [
+      "P. Rangaiah",
+      "T.M. Nair",
+      "G. Subramaniam",
+      "G.A. Natesan"
+    ],
+    "explanation": "P. Rangaiah was the first President of the Madras Mahajana Sabha, which was founded in 1884 to support Indian nationalism."
+  },
+  {
+    "id": 2,
+    "question": "Where was the third session of the Indian National Congress held?",
+    "options": [
+      "Mylapore",
+      "Marina",
+      "Fort St. George",
+      "Thousand Lights"
+    ],
+    "explanation": "The third session of the Indian National Congress was held in Mylapore, Madras, in 1887 under the presidency of Badruddin Tyabji."
+  },
+  {
+    "id": 3,
+    "question": "Who said 'Better bullock carts and freedom than a train de luxe with subjection'?",
+    "options": [
+      "M. Veeraraghavachar",
+      "Annie Besant",
+      "B.P. Wadia",
+      "G.S. Arundale"
+    ],
+    "explanation": "M. Veeraraghavachar, a nationalist leader, made this statement emphasizing the importance of self-rule over modern conveniences under colonial rule."
+  },
+  {
+    "id": 4,
+    "question": "Who among the following were Swarajists?",
+    "options": [
+      "S. Satyamurti",
+      "Kasturirangar",
+      "P. Subbarayan",
+      "Periyar EVR"
+    ],
+    "explanation": "S. Satyamurti was a prominent leader of the Swarajist Party, which aimed to oppose colonial rule by entering legislative councils."
+  },
+  {
+    "id": 5,
+    "question": "Who set up the satyagraha camp in Udyavanam near Madras?",
+    "options": [
+      "C. Rajaji",
+      "K. Kamaraj",
+      "K. Santhanam",
+      "T. Prakasam"
+    ],
+    "explanation": "C. Rajagopalachari (Rajaji) set up the satyagraha camp in Udyavanam as part of the Civil Disobedience Movement against British rule."
+  },
+  {
+    "id": 6,
+    "question": "Where was the anti-Hindi Conference held?",
+    "options": [
+      "Salem",
+      "Erode",
+      "Madras",
+      "Madurai"
+    ],
+    "explanation": "The anti-Hindi Conference was held in Salem in 1938 as a protest against the imposition of Hindi in Tamil-speaking regions."
+  }
+]

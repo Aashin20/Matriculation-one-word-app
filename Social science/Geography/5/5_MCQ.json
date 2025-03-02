@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "The scientific study of different aspects of population is called _______.",
+    "options": [
+      "Demography",
+      "Cartography",
+      "Anthropology",
+      "Epigraphy"
+    ],
+    "explanation": "Demography is the scientific study of population characteristics, including size, growth, density, and distribution."
+  },
+  {
+    "id": 2,
+    "question": "______ transport provides door-to-door services.",
+    "options": [
+      "Roadways",
+      "Railways",
+      "Airways",
+      "Waterways"
+    ],
+    "explanation": "Roadways offer the flexibility of door-to-door transport, making them the most accessible mode of transportation."
+  },
+  {
+    "id": 3,
+    "question": "The length of Golden Quadrilateral superhighways in India is _______.",
+    "options": [
+      "5846 km",
+      "5942 km",
+      "5630 km",
+      "5800 km"
+    ],
+    "explanation": "The Golden Quadrilateral, India's highway network connecting major cities, spans approximately 5846 km."
+  },
+  {
+    "id": 4,
+    "question": "The National Remote Sensing Centre (NRSC) is located at _______.",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Delhi",
+      "Chennai"
+    ],
+    "explanation": "NRSC, responsible for satellite data management, is located in Hyderabad, Telangana."
+  },
+  {
+    "id": 5,
+    "question": "The transport useful in inaccessible areas is _______.",
+    "options": [
+      "Airways",
+      "Roadways",
+      "Railways",
+      "Waterways"
+    ],
+    "explanation": "Airways are crucial for providing connectivity to remote and inaccessible regions, including mountainous and island areas."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is associated with helicopter service?",
+    "options": [
+      "Pavan Hans",
+      "Air India",
+      "Indian Airlines",
+      "Vayudoot"
+    ],
+    "explanation": "Pavan Hans is India's government-owned helicopter service provider, mainly used for offshore operations and regional connectivity."
+  },
+  {
+    "id": 7,
+    "question": "The major import item of India is _______.",
+    "options": [
+      "Petroleum",
+      "Cement",
+      "Jewels",
+      "Tea"
+    ],
+    "explanation": "Petroleum is India's largest import commodity due to its high demand for fuel and industrial purposes."
+  }
+]
