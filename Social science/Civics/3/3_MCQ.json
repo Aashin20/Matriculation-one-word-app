@@ -3,10 +3,10 @@
     "id": 1,
     "question": "The Governor of the State is appointed by the",
     "options": [
-      "President",
-      "Prime Minister",
-      "Chief Minister",
-      "Chief Justice"
+      { "option": "President", "isCorrect": true },
+      { "option": "Prime Minister", "isCorrect": false },
+      { "option": "Chief Minister", "isCorrect": false },
+      { "option": "Chief Justice", "isCorrect": false }
     ],
     "explanation": "The Governor is appointed by the President of India as per Article 155 of the Indian Constitution."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "The Speaker of a State is",
     "options": [
-      "None of these",
-      "Head of State",
-      "Head of government",
-      "President’s agent"
+      { "option": "None of these", "isCorrect": true },
+      { "option": "Head of State", "isCorrect": false },
+      { "option": "Head of government", "isCorrect": false },
+      { "option": "President’s agent", "isCorrect": false }
     ],
     "explanation": "The Speaker is the presiding officer of the State Legislative Assembly but is not considered the Head of State or Government."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "Which among the following is not one of the powers of the Governor?",
     "options": [
-      "Diplomatic",
-      "Legislative",
-      "Executive",
-      "Judicial"
+      { "option": "Diplomatic", "isCorrect": true },
+      { "option": "Legislative", "isCorrect": false },
+      { "option": "Executive", "isCorrect": false },
+      { "option": "Judicial", "isCorrect": false }
     ],
     "explanation": "The Governor has legislative, executive, and judicial powers but does not have diplomatic powers, which are exclusive to the President."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "Who can nominate one representative of the Anglo-Indian Community to the State Legislative Assembly?",
     "options": [
-      "The Governor",
-      "The President",
-      "The Chief Minister",
-      "The Speaker of State legislature"
+      { "option": "The Governor", "isCorrect": true },
+      { "option": "The President", "isCorrect": false },
+      { "option": "The Chief Minister", "isCorrect": false },
+      { "option": "The Speaker of State legislature", "isCorrect": false }
     ],
     "explanation": "As per Article 333, the Governor of a state can nominate one member of the Anglo-Indian community to the Legislative Assembly."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "The Governor does not appoint",
     "options": [
-      "Judges of the High Court",
-      "Chief Minister",
-      "Chairman of the State Public Service Commission",
-      "Advocate General of the State"
+      { "option": "Judges of the High Court", "isCorrect": true },
+      { "option": "Chief Minister", "isCorrect": false },
+      { "option": "Chairman of the State Public Service Commission", "isCorrect": false },
+      { "option": "Advocate General of the State", "isCorrect": false }
     ],
     "explanation": "Judges of the High Court are appointed by the President of India, not the Governor."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "The State Council of Ministers is headed by",
     "options": [
-      "The Chief Minister",
-      "The Governor",
-      "The Speaker",
-      "The Prime Minister"
+      { "option": "The Chief Minister", "isCorrect": true },
+      { "option": "The Governor", "isCorrect": false },
+      { "option": "The Speaker", "isCorrect": false },
+      { "option": "The Prime Minister", "isCorrect": false }
     ],
     "explanation": "The Chief Minister is the head of the State Council of Ministers and leads the executive branch of the state government."
   },
@@ -69,10 +69,10 @@
     "id": 7,
     "question": "The minimum age for the membership of the Legislative Council is",
     "options": [
-      "30 years",
-      "25 years",
-      "21 years",
-      "35 years"
+      { "option": "30 years", "isCorrect": true },
+      { "option": "25 years", "isCorrect": false },
+      { "option": "21 years", "isCorrect": false },
+      { "option": "35 years", "isCorrect": false }
     ],
     "explanation": "As per Article 173, the minimum age to become a member of the Legislative Council is 30 years."
   },
@@ -80,10 +80,10 @@
     "id": 8,
     "question": "Which one of the following States does not possess a bicameral legislature?",
     "options": [
-      "Tamil Nadu",
-      "Andhra Pradesh",
-      "Telangana",
-      "Uttar Pradesh"
+      { "option": "Tamil Nadu", "isCorrect": true },
+      { "option": "Andhra Pradesh", "isCorrect": false },
+      { "option": "Telangana", "isCorrect": false },
+      { "option": "Uttar Pradesh", "isCorrect": false }
     ],
     "explanation": "Tamil Nadu has a unicameral legislature with only a Legislative Assembly, whereas Andhra Pradesh, Telangana, and Uttar Pradesh have both Legislative Assemblies and Legislative Councils."
   },
@@ -91,10 +91,10 @@
     "id": 9,
     "question": "The High Courts in India were first started at",
     "options": [
-      "Calcutta, Bombay, Madras",
-      "Delhi and Calcutta",
-      "Delhi, Calcutta, Madras",
-      "Calcutta, Madras, Delhi"
+      { "option": "Calcutta, Bombay, Madras", "isCorrect": true },
+      { "option": "Delhi and Calcutta", "isCorrect": false },
+      { "option": "Delhi, Calcutta, Madras", "isCorrect": false },
+      { "option": "Calcutta, Madras, Delhi", "isCorrect": false }
     ],
     "explanation": "The first High Courts in India were established in 1862 in Calcutta, Bombay, and Madras under the Indian High Courts Act."
   },
@@ -102,10 +102,10 @@
     "id": 10,
     "question": "Which of the following States have a common High Court?",
     "options": [
-      "Punjab and Haryana",
-      "Tamil Nadu and Andhra Pradesh",
-      "Kerala and Telangana",
-      "Maharashtra and Gujarat"
+      { "option": "Punjab and Haryana", "isCorrect": true },
+      { "option": "Tamil Nadu and Andhra Pradesh", "isCorrect": false },
+      { "option": "Kerala and Telangana", "isCorrect": false },
+      { "option": "Maharashtra and Gujarat", "isCorrect": false }
     ],
     "explanation": "Punjab and Haryana share a common High Court, which is located in Chandigarh."
   }

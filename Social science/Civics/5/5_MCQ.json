@@ -3,10 +3,10 @@
     "id": 1,
     "question": "McMahon Line is a border between",
     "options": [
-      "India and China",
-      "Burma and India",
-      "India and Nepal",
-      "India and Bhutan"
+      { "option": "India and China", "isCorrect": true },
+      { "option": "Burma and India", "isCorrect": false },
+      { "option": "India and Nepal", "isCorrect": false },
+      { "option": "India and Bhutan", "isCorrect": false }
     ],
     "explanation": "The McMahon Line is the demarcation line between the Tibetan region of China and India's Arunachal Pradesh, drawn by British colonial administrator Sir Henry McMahon in 1914."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "India is not a member of which of the following?",
     "options": [
-      "2 only",
-      "2 and 4",
-      "2, 4 and 1",
-      "1, 2 and 3"
+      { "option": "2 only", "isCorrect": false },
+      { "option": "2 and 4", "isCorrect": false },
+      { "option": "2, 4 and 1", "isCorrect": true },
+      { "option": "1, 2 and 3", "isCorrect": false }
     ],
     "explanation": "India is not a member of ASEAN (Association of Southeast Asian Nations) but is a part of G20, SAARC, and BRICS."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "OPEC is",
     "options": [
-      "An Organisation of Oil Exporting Countries",
-      "An international insurance Co.",
-      "An international sports club",
-      "An international company"
+      { "option": "An Organisation of Oil Exporting Countries", "isCorrect": true },
+      { "option": "An international insurance Co.", "isCorrect": false },
+      { "option": "An international sports club", "isCorrect": false },
+      { "option": "An international company", "isCorrect": false }
     ],
     "explanation": "OPEC (Organization of the Petroleum Exporting Countries) is an intergovernmental organization of oil-producing nations that coordinate petroleum policies."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "With which country does India share its longest land border?",
     "options": [
-      "Bangladesh",
-      "Myanmar",
-      "Afghanistan",
-      "China"
+      { "option": "Bangladesh", "isCorrect": true },
+      { "option": "Myanmar", "isCorrect": false },
+      { "option": "Afghanistan", "isCorrect": false },
+      { "option": "China", "isCorrect": false }
     ],
     "explanation": "India shares the longest land border with Bangladesh, stretching approximately 4,096 km."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "Match the following and choose the correct answer from the codes given below.",
     "options": [
-      "3 1 4 2",
-      "3 1 2 4",
-      "3 4 1 2",
-      "4 3 2 1"
+      { "option": "3 1 4 2", "isCorrect": true },
+      { "option": "3 1 2 4", "isCorrect": false },
+      { "option": "3 4 1 2", "isCorrect": false },
+      { "option": "4 3 2 1", "isCorrect": false }
     ],
     "explanation": "Salma Dam (Afghanistan), Farakka Accord (Bangladesh), Chukha hydroelectric project (Bhutan), Sharda River project (Nepal)."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "How many countries share a border with India?",
     "options": [
-      "7",
-      "5",
-      "6",
-      "8"
+      { "option": "7", "isCorrect": true },
+      { "option": "5", "isCorrect": false },
+      { "option": "6", "isCorrect": false },
+      { "option": "8", "isCorrect": false }
     ],
     "explanation": "India shares borders with 7 countries: Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar, and Afghanistan."
   },
@@ -69,10 +69,10 @@
     "id": 7,
     "question": "Which two island countries are India’s neighbours?",
     "options": [
-      "Sri Lanka and Maldives",
-      "Sri Lanka and Andaman island",
-      "Maldives and Lakshadweep island",
-      "Maldives and Nicobar island"
+      { "option": "Sri Lanka and Maldives", "isCorrect": true },
+      { "option": "Sri Lanka and Andaman island", "isCorrect": false },
+      { "option": "Maldives and Lakshadweep island", "isCorrect": false },
+      { "option": "Maldives and Nicobar island", "isCorrect": false }
     ],
     "explanation": "India’s two neighboring island countries are Sri Lanka to the south and the Maldives to the southwest."
   },
@@ -80,10 +80,10 @@
     "id": 8,
     "question": "Which Indian state is surrounded by three countries?",
     "options": [
-      "Arunachal Pradesh",
-      "Meghalaya",
-      "Mizoram",
-      "Assam"
+      { "option": "Arunachal Pradesh", "isCorrect": true },
+      { "option": "Meghalaya", "isCorrect": false },
+      { "option": "Mizoram", "isCorrect": false },
+      { "option": "Assam", "isCorrect": false }
     ],
     "explanation": "Arunachal Pradesh shares its borders with China, Bhutan, and Myanmar."
   },
@@ -91,10 +91,10 @@
     "id": 9,
     "question": "How many Indian states have their boundary with Nepal?",
     "options": [
-      "Five",
-      "Four",
-      "Three",
-      "Two"
+      { "option": "Five", "isCorrect": true },
+      { "option": "Four", "isCorrect": false },
+      { "option": "Three", "isCorrect": false },
+      { "option": "Two", "isCorrect": false }
     ],
     "explanation": "Five Indian states share a border with Nepal: Uttarakhand, Uttar Pradesh, Bihar, Sikkim, and West Bengal."
   },
@@ -102,10 +102,10 @@
     "id": 10,
     "question": "Who drew up the borders for independent Pakistan?",
     "options": [
-      "Sir Cyril Radcliffe",
-      "Lord Mountbatten",
-      "Clement Atlee",
-      "None of the above"
+      { "option": "Sir Cyril Radcliffe", "isCorrect": true },
+      { "option": "Lord Mountbatten", "isCorrect": false },
+      { "option": "Clement Atlee", "isCorrect": false },
+      { "option": "None of the above", "isCorrect": false }
     ],
     "explanation": "Sir Cyril Radcliffe, a British lawyer, was responsible for drawing the borders between India and Pakistan during the partition in 1947."
   }
