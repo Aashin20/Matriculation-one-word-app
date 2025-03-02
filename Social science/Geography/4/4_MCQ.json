@@ -3,10 +3,10 @@
     "id": 1,
     "question": "Manganese is used in______.",
     "options": [
-      "Steel Making",
-      "Paper industry",
-      "Copper smelting",
-      "Petroleum Refining"
+      { "option": "Steel Making", "isCorrect": true },
+      { "option": "Paper industry", "isCorrect": false },
+      { "option": "Copper smelting", "isCorrect": false },
+      { "option": "Petroleum Refining", "isCorrect": false }
     ],
     "explanation": "Manganese is a key component in steelmaking, as it improves strength, hardness, and wear resistance."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "The Anthracite coal has ___________.",
     "options": [
-      "80 to 90% Carbon",
-      "Above 70% Carbon",
-      "60 to 70% Carbon",
-      "Below 50% Carbon"
+      { "option": "80 to 90% Carbon", "isCorrect": true },
+      { "option": "Above 70% Carbon", "isCorrect": false },
+      { "option": "60 to 70% Carbon", "isCorrect": false },
+      { "option": "Below 50% Carbon", "isCorrect": false }
     ],
     "explanation": "Anthracite coal is the highest grade of coal, with a high carbon content (80-90%) and minimal impurities."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "The most important constituents of petroleum are hydrogen and _______.",
     "options": [
-      "Carbon",
-      "Oxygen",
-      "Water",
-      "Nitrogen"
+      { "option": "Carbon", "isCorrect": true },
+      { "option": "Oxygen", "isCorrect": false },
+      { "option": "Water", "isCorrect": false },
+      { "option": "Nitrogen", "isCorrect": false }
     ],
     "explanation": "Petroleum is primarily composed of hydrocarbons, which are compounds made of hydrogen and carbon atoms."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "The city which is called the Manchester of South India is _______.",
     "options": [
-      "Coimbatore",
-      "Chennai",
-      "Salem",
-      "Madurai"
+      { "option": "Coimbatore", "isCorrect": true },
+      { "option": "Chennai", "isCorrect": false },
+      { "option": "Salem", "isCorrect": false },
+      { "option": "Madurai", "isCorrect": false }
     ],
     "explanation": "Coimbatore is known as the 'Manchester of South India' due to its thriving textile industry."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "The first Nuclear Power station was commissioned in _______.",
     "options": [
-      "Maharashtra",
-      "Gujarat",
-      "Rajasthan",
-      "Tamil Nadu"
+      { "option": "Maharashtra", "isCorrect": true },
+      { "option": "Gujarat", "isCorrect": false },
+      { "option": "Rajasthan", "isCorrect": false },
+      { "option": "Tamil Nadu", "isCorrect": false }
     ],
     "explanation": "The first nuclear power plant in India was established in Tarapur, Maharashtra, in 1969."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "The most abundant source of energy is _______.",
     "options": [
-      "Sun",
-      "Biomass",
-      "Coal",
-      "Oil"
+      { "option": "Sun", "isCorrect": true },
+      { "option": "Biomass", "isCorrect": false },
+      { "option": "Coal", "isCorrect": false },
+      { "option": "Oil", "isCorrect": false }
     ],
     "explanation": "The Sun is the most abundant and renewable energy source, providing solar energy essential for life on Earth."
   },
@@ -69,10 +69,10 @@
     "id": 7,
     "question": "The nucleus for the development of the Chotanagpur plateau region is _______.",
     "options": [
-      "Mineral Deposits",
-      "Transport",
-      "Large demand",
-      "Power Availability"
+      { "option": "Mineral Deposits", "isCorrect": true },
+      { "option": "Transport", "isCorrect": false },
+      { "option": "Large demand", "isCorrect": false },
+      { "option": "Power Availability", "isCorrect": false }
     ],
     "explanation": "The Chotanagpur Plateau is rich in mineral resources like coal, iron ore, and bauxite, making it a key industrial hub."
   }
