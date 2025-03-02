@@ -1,140 +1,117 @@
 [
-  {
-    "id": 1,
-    "question": "Casparian strips are present in the _____________ of the root.",
-    "options": [
-      {
-        "option": "endodermis",
-        "isCorrect": true
-      },
-      {
-        "option": "cortex",
-        "isCorrect": false
-      },
-      {
-        "option": "pith",
-        "isCorrect": false
-      },
-      {
-        "option": "pericycle",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "Casparian strips are found in the endodermis of roots, forming a water-impermeable barrier that controls water and mineral movement into the vascular cylinder."
-  },
-  {
-    "id": 2,
-    "question": "The endarch condition is the characteristic feature of",
-    "options": [
-      {
-        "option": "stem",
-        "isCorrect": true
-      },
-      {
-        "option": "root",
-        "isCorrect": false
-      },
-      {
-        "option": "leaves",
-        "isCorrect": false
-      },
-      {
-        "option": "flower",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "Endarch condition, where protoxylem develops towards the pith and metaxylem towards the periphery, is characteristic of stems in vascular plants."
-  },
-  {
-    "id": 3,
-    "question": "The xylem and phloem arranged side by side on same radius is called _________",
-    "options": [
-      {
-        "option": "conjoint",
-        "isCorrect": true
-      },
-      {
-        "option": "radial",
-        "isCorrect": false
-      },
-      {
-        "option": "amphivasal",
-        "isCorrect": false
-      },
-      {
-        "option": "None of these",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "Conjoint vascular bundles have xylem and phloem arranged side by side on the same radius, which is common in dicot stems."
-  },
-  {
-    "id": 4,
-    "question": "Which is formed during anaerobic respiration",
-    "options": [
-      {
-        "option": "Ethyl alcohol",
-        "isCorrect": true
-      },
-      {
-        "option": "Carbohydrate",
-        "isCorrect": false
-      },
-      {
-        "option": "Acetyl CoA",
-        "isCorrect": false
-      },
-      {
-        "option": "Pyruvate",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "During anaerobic respiration, pyruvate is converted to ethyl alcohol (ethanol) in the absence of oxygen, particularly in organisms like yeast."
-  },
-  {
-    "id": 5,
-    "question": "Kreb's cycle takes place in",
-    "options": [
-      {
-        "option": "mitochondrial matrix",
-        "isCorrect": true
-      },
-      {
-        "option": "chloroplast",
-        "isCorrect": false
-      },
-      {
-        "option": "stomata",
-        "isCorrect": false
-      },
-      {
-        "option": "inner mitochondrial membrane",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "The Krebs cycle occurs in the mitochondrial matrix, where it generates NADH and FADH2 through a series of chemical reactions."
-  },
-  {
-    "id": 6,
-    "question": "Oxygen is produced at what point during photosynthesis?",
-    "options": [
-      {
-        "option": "when H2O is splitted",
-        "isCorrect": true
-      },
-      {
-        "option": "when ATP is converted to ADP",
-        "isCorrect": false
-      },
-      {
-        "option": "when CO2 is fixed",
-        "isCorrect": false
-      },
-      {
-        "option": "All of these",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "Oxygen is produced during the light-dependent reactions of photosynthesis when water molecules are split (photolysis) to provide electrons for the electron transport chain."
-  }
+    {
+      "id": 1,
+      "question": "Which software is used to create animation?",
+      "options": [
+        {
+          "option": "Scratch",
+          "isCorrect": true
+        },
+        {
+          "option": "Paint",
+          "isCorrect": false
+        },
+        {
+          "option": "PDF",
+          "isCorrect": false
+        },
+        {
+          "option": "MS Word",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Scratch is a block-based visual programming language and website designed specifically for creating interactive animations, stories, and games."
+    },
+    {
+      "id": 2,
+      "question": "All files are stored in the ______________",
+      "options": [
+        {
+          "option": "Folder",
+          "isCorrect": true
+        },
+        {
+          "option": "box",
+          "isCorrect": false
+        },
+        {
+          "option": "Pai",
+          "isCorrect": false
+        },
+        {
+          "option": "scanner",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Folders are used to organize and store files in a computer's file system, making it easier to locate and manage files."
+    },
+    {
+      "id": 3,
+      "question": "Which is used to build scripts?",
+      "options": [
+        {
+          "option": "Script area",
+          "isCorrect": true
+        },
+        {
+          "option": "Block palette",
+          "isCorrect": false
+        },
+        {
+          "option": "stage",
+          "isCorrect": false
+        },
+        {
+          "option": "sprite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The script area in Scratch is where users drag and combine blocks to create scripts (programs) that control sprites and animations."
+    },
+    {
+      "id": 4,
+      "question": "Which is used to edit programs?",
+      "options": [
+        {
+          "option": "script editor",
+          "isCorrect": true
+        },
+        {
+          "option": "Inkscape",
+          "isCorrect": false
+        },
+        {
+          "option": "stage",
+          "isCorrect": false
+        },
+        {
+          "option": "sprite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The script editor is a tool used to modify and edit programming code or scripts in a development environment."
+    },
+    {
+      "id": 5,
+      "question": "Where you will create category of blocks?",
+      "options": [
+        {
+          "option": "Block palette",
+          "isCorrect": true
+        },
+        {
+          "option": "Block menu",
+          "isCorrect": false
+        },
+        {
+          "option": "Script area",
+          "isCorrect": false
+        },
+        {
+          "option": "sprite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "The Block palette in Scratch contains different categories of programming blocks that can be used to create scripts and programs."
+    }
 ]
