@@ -3,10 +3,10 @@
     "id": 1,
     "question": "‘The Detroit of Asia’ is ___________.",
     "options": [
-      "Chennai",
-      "Tuticorin",
-      "Coimbatore",
-      "Madurai"
+      { "option": "Chennai", "isCorrect": true },
+      { "option": "Tuticorin", "isCorrect": false },
+      { "option": "Coimbatore", "isCorrect": false },
+      { "option": "Madurai", "isCorrect": false }
     ],
     "explanation": "Chennai is called ‘The Detroit of Asia’ because of its extensive automobile industry, housing major car manufacturers like Hyundai, Ford, and BMW."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "Pumpsets and motors are produced mostly in ___________.",
     "options": [
-      "Coimbatore",
-      "Salem",
-      "Chennai",
-      "Dharmapuri"
+      { "option": "Coimbatore", "isCorrect": true },
+      { "option": "Salem", "isCorrect": false },
+      { "option": "Chennai", "isCorrect": false },
+      { "option": "Dharmapuri", "isCorrect": false }
     ],
     "explanation": "Coimbatore is known as the 'Pump City' of India due to its extensive production of motors and pump sets."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "___________ are an essential aspect of a nation’s development.",
     "options": [
-      "Industry",
-      "Agriculture",
-      "Railway",
-      "None of these"
+      { "option": "Industry", "isCorrect": true },
+      { "option": "Agriculture", "isCorrect": false },
+      { "option": "Railway", "isCorrect": false },
+      { "option": "None of these", "isCorrect": false }
     ],
     "explanation": "Industries play a crucial role in economic growth, employment generation, and technological advancements."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "Tiruppur is known for ___________.",
     "options": [
-      "Knitwear",
-      "Leather tanning",
-      "Lock making",
-      "Agro-processing"
+      { "option": "Knitwear", "isCorrect": true },
+      { "option": "Leather tanning", "isCorrect": false },
+      { "option": "Lock making", "isCorrect": false },
+      { "option": "Agro-processing", "isCorrect": false }
     ],
     "explanation": "Tiruppur is famous for its knitwear and textile industries, making it an important textile hub in India."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "A successful industrial cluster entirely created by Tamil Nadu is ___________.",
     "options": [
-      "Hosur",
-      "Dindigul",
-      "Kovilpatti",
-      "Tirunelveli"
+      { "option": "Hosur", "isCorrect": true },
+      { "option": "Dindigul", "isCorrect": false },
+      { "option": "Kovilpatti", "isCorrect": false },
+      { "option": "Tirunelveli", "isCorrect": false }
     ],
     "explanation": "Hosur is a major industrial hub in Tamil Nadu, known for automobile and manufacturing industries."
   }
