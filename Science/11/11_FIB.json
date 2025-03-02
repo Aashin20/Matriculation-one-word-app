@@ -1,209 +1,56 @@
 [
     {
       "id": 1,
-      "question": "The molecular formula of an open chain organic compound is $C_3H_6$. The class of the compound is",
-      "options": [
-        {
-          "option": "alkane",
-          "isCorrect": false
-        },
-        {
-          "option": "alkene",
-          "isCorrect": true
-        },
-        {
-          "option": "alkyne",
-          "isCorrect": false
-        },
-        {
-          "option": "alcohol",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "For $C_3H_6$, the general formula is $C_nH_{2n}$, which corresponds to alkenes (compounds with one double bond)."
+      "question": "An atom or a group of atoms which is responsible for chemical characteristics of an organic compound is called ____________",
+      "answer": "functional group",
+      "explanation": "Functional groups determine the chemical properties and reactivity of organic compounds."
     },
     {
       "id": 2,
-      "question": "The IUPAC name of an organic compound is 3-Methyl butan-1-ol. What type compound it is?",
-      "options": [
-        {
-          "option": "Aldehyde",
-          "isCorrect": false
-        },
-        {
-          "option": "Carboxylic acid",
-          "isCorrect": false
-        },
-        {
-          "option": "Ketone",
-          "isCorrect": false
-        },
-        {
-          "option": "Alcohol",
-          "isCorrect": true
-        }
-      ],
-      "explanation": "The suffix '-ol' indicates that the compound is an alcohol, containing an -OH group."
+      "question": "The general molecular formula of alkynes is _____________",
+      "answer": "$C_nH_{2n-2}$",
+      "explanation": "Alkynes have a triple bond and follow the general formula $C_nH_{2n-2}$, where n is the number of carbon atoms."
     },
     {
       "id": 3,
-      "question": "The secondary suffix used in IUPAC nomenclature of an aldehyde is ____",
-      "options": [
-        {
-          "option": "-ol",
-          "isCorrect": false
-        },
-        {
-          "option": "–oic acid",
-          "isCorrect": false
-        },
-        {
-          "option": "-al",
-          "isCorrect": true
-        },
-        {
-          "option": "-one",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "The suffix '-al' is used for aldehydes in IUPAC nomenclature, indicating the presence of -CHO group."
+      "question": "In IUPAC name, the carbon skeleton of a compound is represented by _________ (root word / prefix / suffix)",
+      "answer": "root word",
+      "explanation": "The root word indicates the number of carbon atoms in the longest continuous chain (e.g., meth-, eth-, prop-)."
     },
     {
       "id": 4,
-      "question": "Which of the following pairs can be the successive members of a homologous series?",
-      "options": [
-        {
-          "option": "$C_3H_8$ and $C_4H_{10}$",
-          "isCorrect": true
-        },
-        {
-          "option": "$C_2H_2$ and $C_2H_4$",
-          "isCorrect": false
-        },
-        {
-          "option": "$CH_4$ and $C_3H_6$",
-          "isCorrect": false
-        },
-        {
-          "option": "$C_2H_5OH$ and $C_4H_8OH$",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "Propane ($C_3H_8$) and butane ($C_4H_{10}$) are successive members of alkane series, differing by -$CH_2$ group."
+      "question": "(Saturated / Unsaturated) ___________ compounds decolourize bromine water",
+      "answer": "Unsaturated",
+      "explanation": "Unsaturated compounds containing double or triple bonds can decolorize bromine water through addition reactions."
     },
     {
       "id": 5,
-      "question": "$C_2H_5OH + 3O_2 \\rightarrow 2CO_2 + 3H_2O$ is a",
-      "options": [
-        {
-          "option": "Reduction of ethanol",
-          "isCorrect": false
-        },
-        {
-          "option": "Combustion of ethanol",
-          "isCorrect": true
-        },
-        {
-          "option": "Oxidation of ethanoic acid",
-          "isCorrect": false
-        },
-        {
-          "option": "Oxidation of ethanal",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "This reaction shows complete oxidation (combustion) of ethanol to form carbon dioxide and water."
+      "question": "Dehydration of ethanol by conc. Sulphuric acid forms _______ (ethene/ ethane)",
+      "answer": "ethene",
+      "explanation": "Dehydration of ethanol removes $H_2O$ to form ethene: $CH_3CH_2OH \\xrightarrow{H_2SO_4} CH_2=CH_2 + H_2O$"
     },
     {
       "id": 6,
-      "question": "Rectified spirit is an aqueous solution which contains about _______ of ethanol",
-      "options": [
-        {
-          "option": "95.5 %",
-          "isCorrect": true
-        },
-        {
-          "option": "75.5 %",
-          "isCorrect": false
-        },
-        {
-          "option": "55.5 %",
-          "isCorrect": false
-        },
-        {
-          "option": "45.5 %",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "Rectified spirit contains approximately 95.5% ethanol and 4.5% water by volume."
+      "question": "100 % pure ethanol is called ____________",
+      "answer": "absolute alcohol",
+      "explanation": "Absolute alcohol refers to pure ethanol with no water content (100% ethanol)."
     },
     {
       "id": 7,
-      "question": "Which of the following are used as anaesthetics?",
-      "options": [
-        {
-          "option": "Carboxylic acids",
-          "isCorrect": false
-        },
-        {
-          "option": "Ethers",
-          "isCorrect": true
-        },
-        {
-          "option": "Esters",
-          "isCorrect": false
-        },
-        {
-          "option": "Aldehydes",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "Ethers, particularly diethyl ether, have been historically used as anaesthetics due to their depressant effect on the central nervous system."
+      "question": "Ethanoic acid turns _______ litmus to _________",
+      "answer": "blue, red",
+      "explanation": "Being an acid, ethanoic acid (CH₃COOH) turns blue litmus to red due to its acidic nature."
     },
     {
       "id": 8,
-      "question": "TFM in soaps represents ___________ content in soap",
-      "options": [
-        {
-          "option": "mineral",
-          "isCorrect": false
-        },
-        {
-          "option": "vitamin",
-          "isCorrect": false
-        },
-        {
-          "option": "fatty acid",
-          "isCorrect": true
-        },
-        {
-          "option": "carbohydrate",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "TFM (Total Fatty Matter) indicates the total amount of fatty acids in soap, which determines its quality."
+      "question": "The alkaline hydrolysis of fatty acids is termed as _____________",
+      "answer": "saponification",
+      "explanation": "Saponification is the process of converting fats/oils into soap using an alkali (base)."
     },
     {
       "id": 9,
-      "question": "Which of the following statements is wrong about detergents?",
-      "options": [
-        {
-          "option": "It is a sodium salt of long chain fatty acids",
-          "isCorrect": true
-        },
-        {
-          "option": "It is sodium salts of sulphonic acids",
-          "isCorrect": false
-        },
-        {
-          "option": "The ionic part in a detergent is –$SO_3^-Na^+$",
-          "isCorrect": false
-        },
-        {
-          "option": "It is effective even in hard water",
-          "isCorrect": false
-        }
-      ],
-      "explanation": "Sodium salts of long chain fatty acids are soaps, not detergents. Detergents are sodium salts of sulphonic acids."
+      "question": "Biodegradable detergents are made of _________(branched / straight) chain hydrocarbons",
+      "answer": "straight",
+      "explanation": "Straight chain hydrocarbons are more easily broken down by microorganisms, making detergents biodegradable."
     }
 ]
