@@ -2,31 +2,139 @@
   {
     "id": 1,
     "question": "Casparian strips are present in the _____________ of the root.",
-    "options": ["endodermis", "cortex", "pith", "pericycle"]
+    "options": [
+      {
+        "option": "endodermis",
+        "isCorrect": true
+      },
+      {
+        "option": "cortex",
+        "isCorrect": false
+      },
+      {
+        "option": "pith",
+        "isCorrect": false
+      },
+      {
+        "option": "pericycle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Casparian strips are found in the endodermis of roots, forming a water-impermeable barrier that controls water and mineral movement into the vascular cylinder."
   },
   {
     "id": 2,
     "question": "The endarch condition is the characteristic feature of",
-    "options": ["stem", "root", "leaves", "flower"]
+    "options": [
+      {
+        "option": "stem",
+        "isCorrect": true
+      },
+      {
+        "option": "root",
+        "isCorrect": false
+      },
+      {
+        "option": "leaves",
+        "isCorrect": false
+      },
+      {
+        "option": "flower",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Endarch condition, where protoxylem develops towards the pith and metaxylem towards the periphery, is characteristic of stems in vascular plants."
   },
   {
     "id": 3,
     "question": "The xylem and phloem arranged side by side on same radius is called _________",
-    "options": ["conjoint", "radial", "amphivasal", "None of these"]
+    "options": [
+      {
+        "option": "conjoint",
+        "isCorrect": true
+      },
+      {
+        "option": "radial",
+        "isCorrect": false
+      },
+      {
+        "option": "amphivasal",
+        "isCorrect": false
+      },
+      {
+        "option": "None of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Conjoint vascular bundles have xylem and phloem arranged side by side on the same radius, which is common in dicot stems."
   },
   {
     "id": 4,
     "question": "Which is formed during anaerobic respiration",
-    "options": ["Ethyl alcohol", "Carbohydrate", "Acetyl CoA", "Pyruvate"]
+    "options": [
+      {
+        "option": "Ethyl alcohol",
+        "isCorrect": true
+      },
+      {
+        "option": "Carbohydrate",
+        "isCorrect": false
+      },
+      {
+        "option": "Acetyl CoA",
+        "isCorrect": false
+      },
+      {
+        "option": "Pyruvate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "During anaerobic respiration, pyruvate is converted to ethyl alcohol (ethanol) in the absence of oxygen, particularly in organisms like yeast."
   },
   {
     "id": 5,
     "question": "Kreb's cycle takes place in",
-    "options": ["mitochondrial matrix", "chloroplast", "stomata", "inner mitochondrial membrane"]
+    "options": [
+      {
+        "option": "mitochondrial matrix",
+        "isCorrect": true
+      },
+      {
+        "option": "chloroplast",
+        "isCorrect": false
+      },
+      {
+        "option": "stomata",
+        "isCorrect": false
+      },
+      {
+        "option": "inner mitochondrial membrane",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Krebs cycle occurs in the mitochondrial matrix, where it generates NADH and FADH2 through a series of chemical reactions."
   },
   {
     "id": 6,
     "question": "Oxygen is produced at what point during photosynthesis?",
-    "options": ["when H2O is splitted", "when ATP is converted to ADP", "when CO2 is fixed", "All of these"]
+    "options": [
+      {
+        "option": "when H2O is splitted",
+        "isCorrect": true
+      },
+      {
+        "option": "when ATP is converted to ADP",
+        "isCorrect": false
+      },
+      {
+        "option": "when CO2 is fixed",
+        "isCorrect": false
+      },
+      {
+        "option": "All of these",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oxygen is produced during the light-dependent reactions of photosynthesis when water molecules are split (photolysis) to provide electrons for the electron transport chain."
   }
 ]
