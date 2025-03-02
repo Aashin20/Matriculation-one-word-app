@@ -3,10 +3,10 @@
     "id": 1,
     "question": "The Constitutional Head of the Union is",
     "options": [
-      "The President",
-      "The Chief Justice",
-      "The Prime Minister",
-      "Council of Ministers"
+      { "option": "The President", "isCorrect": true },
+      { "option": "The Chief Justice", "isCorrect": false },
+      { "option": "The Prime Minister", "isCorrect": false },
+      { "option": "Council of Ministers", "isCorrect": false }
     ],
     "explanation": "The President of India is the constitutional head of the state, while the Prime Minister is the executive head."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "Who among the following decides whether a Bill is a Money Bill or not?",
     "options": [
-      "Speaker of Lok Sabha",
-      "The President",
-      "Attorney General",
-      "Parliamentary Affairs Minister"
+      { "option": "Speaker of Lok Sabha", "isCorrect": true },
+      { "option": "The President", "isCorrect": false },
+      { "option": "Attorney General", "isCorrect": false },
+      { "option": "Parliamentary Affairs Minister", "isCorrect": false }
     ],
     "explanation": "As per Article 110 of the Constitution, the Speaker of the Lok Sabha has the final authority to decide whether a bill is a Money Bill or not."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "The Council of Ministers is collectively responsible to the:",
     "options": [
-      "Lok Sabha",
-      "The President",
-      "The Prime Minister",
-      "Rajya Sabha"
+      { "option": "Lok Sabha", "isCorrect": true },
+      { "option": "The President", "isCorrect": false },
+      { "option": "The Prime Minister", "isCorrect": false },
+      { "option": "Rajya Sabha", "isCorrect": false }
     ],
     "explanation": "According to Article 75(3), the Council of Ministers is collectively responsible to the Lok Sabha."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "What is the minimum age laid down for a candidate to seek election to the Lok Sabha?",
     "options": [
-      "25 years",
-      "18 years",
-      "21 years",
-      "30 years"
+      { "option": "25 years", "isCorrect": true },
+      { "option": "18 years", "isCorrect": false },
+      { "option": "21 years", "isCorrect": false },
+      { "option": "30 years", "isCorrect": false }
     ],
     "explanation": "As per Article 84 of the Constitution, the minimum age required to contest elections for the Lok Sabha is 25 years."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "The authority to alter the boundaries of a state in India rests with?",
     "options": [
-      "Parliament",
-      "The President",
-      "The Prime Minister",
-      "State Government"
+      { "option": "Parliament", "isCorrect": true },
+      { "option": "The President", "isCorrect": false },
+      { "option": "The Prime Minister", "isCorrect": false },
+      { "option": "State Government", "isCorrect": false }
     ],
     "explanation": "According to Article 3 of the Indian Constitution, only Parliament has the authority to alter the boundaries of a state."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "Under which Article is the President vested with the power to proclaim a Financial Emergency?",
     "options": [
-      "Article 360",
-      "Article 352",
-      "Article 356",
-      "Article 365"
+      { "option": "Article 360", "isCorrect": true },
+      { "option": "Article 352", "isCorrect": false },
+      { "option": "Article 356", "isCorrect": false },
+      { "option": "Article 365", "isCorrect": false }
     ],
     "explanation": "As per Article 360, the President of India can proclaim a financial emergency if the financial stability of the country is threatened."
   },
@@ -69,10 +69,10 @@
     "id": 7,
     "question": "The Chief Justice and other Judges of the Supreme Court are appointed by:",
     "options": [
-      "The President",
-      "The Attorney General",
-      "The Governor",
-      "The Prime Minister"
+      { "option": "The President", "isCorrect": true },
+      { "option": "The Attorney General", "isCorrect": false },
+      { "option": "The Governor", "isCorrect": false },
+      { "option": "The Prime Minister", "isCorrect": false }
     ],
     "explanation": "As per Article 124, the President of India appoints the Chief Justice and other judges of the Supreme Court."
   }
