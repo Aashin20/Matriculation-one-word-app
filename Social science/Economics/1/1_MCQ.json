@@ -3,10 +3,10 @@
     "id": 1,
     "question": "GNP equals",
     "options": [
-      "GDP plus net property income from abroad",
-      "NNP adjusted for inflation",
-      "GDP adjusted for inflation",
-      "NNP plus net property income from abroad"
+      { "option": "GDP plus net property income from abroad", "isCorrect": true },
+      { "option": "NNP adjusted for inflation", "isCorrect": false },
+      { "option": "GDP adjusted for inflation", "isCorrect": false },
+      { "option": "NNP plus net property income from abroad", "isCorrect": false }
     ],
     "explanation": "Gross National Product (GNP) is calculated by adding the net income earned from abroad to the Gross Domestic Product (GDP)."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "National Income is a measure of",
     "options": [
-      "Total value of goods and services",
-      "Total value of money",
-      "Total value of producer goods",
-      "Total value of consumption goods"
+      { "option": "Total value of goods and services", "isCorrect": true },
+      { "option": "Total value of money", "isCorrect": false },
+      { "option": "Total value of producer goods", "isCorrect": false },
+      { "option": "Total value of consumption goods", "isCorrect": false }
     ],
     "explanation": "National Income represents the total value of goods and services produced within a country over a specific period, usually a year."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "Primary sector consists of",
     "options": [
-      "Agriculture",
-      "Automobiles",
-      "Trade",
-      "Banking"
+      { "option": "Agriculture", "isCorrect": true },
+      { "option": "Automobiles", "isCorrect": false },
+      { "option": "Trade", "isCorrect": false },
+      { "option": "Banking", "isCorrect": false }
     ],
     "explanation": "The primary sector involves the extraction of natural resources, including agriculture, forestry, fishing, and mining."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "______ approach is the value added by each intermediate good is summed to estimate the value of the final good.",
     "options": [
-      "Value added approach",
-      "Expenditure approach",
-      "Income approach",
-      "National Income"
+      { "option": "Value added approach", "isCorrect": true },
+      { "option": "Expenditure approach", "isCorrect": false },
+      { "option": "Income approach", "isCorrect": false },
+      { "option": "National Income", "isCorrect": false }
     ],
     "explanation": "The Value Added Approach calculates GDP by summing the value added at each stage of production to avoid double counting."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "Gross value added at current prices for services sector is estimated at ______ lakh crore in 2018-19.",
     "options": [
-      "92.26",
-      "91.06",
-      "80.07",
-      "98.29"
+      { "option": "92.26", "isCorrect": true },
+      { "option": "91.06", "isCorrect": false },
+      { "option": "80.07", "isCorrect": false },
+      { "option": "98.29", "isCorrect": false }
     ],
     "explanation": "In the fiscal year 2018-19, the estimated Gross Value Added (GVA) for the services sector at current prices was ₹92.26 lakh crore."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "India is ______ largest producer in agricultural products.",
     "options": [
-      "2nd",
-      "1st",
-      "3rd",
-      "4th"
+      { "option": "2nd", "isCorrect": true },
+      { "option": "1st", "isCorrect": false },
+      { "option": "3rd", "isCorrect": false },
+      { "option": "4th", "isCorrect": false }
     ],
     "explanation": "India is the second-largest producer of agricultural products in the world, following China."
   },
@@ -69,10 +69,10 @@
     "id": 7,
     "question": "India’s life expectancy at birth is ______ years.",
     "options": [
-      "70",
-      "65",
-      "60",
-      "55"
+      { "option": "70", "isCorrect": true },
+      { "option": "65", "isCorrect": false },
+      { "option": "60", "isCorrect": false },
+      { "option": "55", "isCorrect": false }
     ],
     "explanation": "As per recent estimates, India's life expectancy at birth is approximately 70 years."
   },
@@ -80,10 +80,10 @@
     "id": 8,
     "question": "Which one is a trade policy?",
     "options": [
-      "Import and export policy",
-      "Irrigation policy",
-      "Land-reform policy",
-      "Wage policy"
+      { "option": "Import and export policy", "isCorrect": true },
+      { "option": "Irrigation policy", "isCorrect": false },
+      { "option": "Land-reform policy", "isCorrect": false },
+      { "option": "Wage policy", "isCorrect": false }
     ],
     "explanation": "Trade policy refers to government regulations and strategies related to imports and exports, affecting international trade."
   }
