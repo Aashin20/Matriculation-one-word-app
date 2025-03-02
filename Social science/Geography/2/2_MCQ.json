@@ -3,10 +3,10 @@
     "id": 1,
     "question": "Western disturbances cause rainfall in _____.",
     "options": [
-      "Punjab",
-      "Tamil Nadu",
-      "Kerala",
-      "Madhya Pradesh"
+      { "option": "Punjab", "isCorrect": true },
+      { "option": "Tamil Nadu", "isCorrect": false },
+      { "option": "Kerala", "isCorrect": false },
+      { "option": "Madhya Pradesh", "isCorrect": false }
     ],
     "explanation": "Western disturbances originate from the Mediterranean region and bring winter rainfall to Punjab and northern India."
   },
@@ -14,9 +14,9 @@
     "id": 2,
     "question": "_____ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.",
     "options": [
-      "Mango showers",
-      "Loo",
-      "Jet stream"
+      { "option": "Mango showers", "isCorrect": true },
+      { "option": "Loo", "isCorrect": false },
+      { "option": "Jet stream", "isCorrect": false }
     ],
     "explanation": "Mango showers are pre-monsoon rainfall in southern India that helps in the early ripening of mangoes."
   },
@@ -24,10 +24,10 @@
     "id": 3,
     "question": "_____ is a line joining the places of equal rainfall.",
     "options": [
-      "Isohyets",
-      "Isobar",
-      "Isotherm",
-      "Latitudes"
+      { "option": "Isohyets", "isCorrect": true },
+      { "option": "Isobar", "isCorrect": false },
+      { "option": "Isotherm", "isCorrect": false },
+      { "option": "Latitudes", "isCorrect": false }
     ],
     "explanation": "Isohyets are contour lines on a map that connect regions with the same amount of precipitation."
   },
@@ -35,10 +35,10 @@
     "id": 4,
     "question": "Climate of India is labelled as _____.",
     "options": [
-      "Tropical Monsoon Climate",
-      "Tropical humid",
-      "Equatorial Climate",
-      "Temperate Climate"
+      { "option": "Tropical Monsoon Climate", "isCorrect": true },
+      { "option": "Tropical humid", "isCorrect": false },
+      { "option": "Equatorial Climate", "isCorrect": false },
+      { "option": "Temperate Climate", "isCorrect": false }
     ],
     "explanation": "India experiences a tropical monsoon climate due to the seasonal monsoon winds that bring distinct wet and dry seasons."
   },
@@ -46,10 +46,10 @@
     "id": 5,
     "question": "The monsoon forests are otherwise called as _____.",
     "options": [
-      "Deciduous forest",
-      "Tropical evergreen forest",
-      "Mangrove forest",
-      "Mountain forest"
+      { "option": "Deciduous forest", "isCorrect": true },
+      { "option": "Tropical evergreen forest", "isCorrect": false },
+      { "option": "Mangrove forest", "isCorrect": false },
+      { "option": "Mountain forest", "isCorrect": false }
     ],
     "explanation": "Deciduous forests shed their leaves during the dry season and are also known as monsoon forests due to their adaptation to seasonal rainfall."
   },
@@ -57,10 +57,10 @@
     "id": 6,
     "question": "Sesahachalam hills, a Biosphere reserve, is situated in _____.",
     "options": [
-      "Andhra Pradesh",
-      "Tamil Nadu",
-      "Madhya Pradesh",
-      "Karnataka"
+      { "option": "Andhra Pradesh", "isCorrect": true },
+      { "option": "Tamil Nadu", "isCorrect": false },
+      { "option": "Madhya Pradesh", "isCorrect": false },
+      { "option": "Karnataka", "isCorrect": false }
     ],
     "explanation": "The Sesahachalam Hills Biosphere Reserve is located in Andhra Pradesh and is known for its rich biodiversity and red sanders trees."
   },
@@ -68,10 +68,10 @@
     "id": 7,
     "question": "_____ is not a part of the world network biosphere reserves of UNESCO.",
     "options": [
-      "Kachch",
-      "Nilgiri",
-      "Agasthiyamalai",
-      "Great Nicobar"
+      { "option": "Kachch", "isCorrect": true },
+      { "option": "Nilgiri", "isCorrect": false },
+      { "option": "Agasthiyamalai", "isCorrect": false },
+      { "option": "Great Nicobar", "isCorrect": false }
     ],
     "explanation": "The Kachch (Kutch) region is not included in UNESCO’s biosphere reserves, whereas Nilgiri, Agasthiyamalai, and Great Nicobar are recognized under this network."
   }
