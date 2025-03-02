@@ -1,5 +1,4 @@
-{
-    "questions": [
+[
       {
         "id": 1,
         "question": "Inertia of a body depends on",
@@ -231,4 +230,4 @@
         "explanation": "Rocket propulsion works on Newton's Third Law (action-reaction) and conserves linear momentum as exhaust gases are expelled in one direction, propelling the rocket in the opposite direction."
       }
     ]
-  }
+  
