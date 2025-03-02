@@ -3,10 +3,10 @@
     "id": 1,
     "question": "Buffer stock is the stock of food grains, namely wheat and rice, procured by the government through the?",
     "options": [
-      "FCI",
-      "Consumer Cooperatives",
-      "ICICI",
-      "IFCI"
+      { "option": "FCI", "isCorrect": true },
+      { "option": "Consumer Cooperatives", "isCorrect": false },
+      { "option": "ICICI", "isCorrect": false },
+      { "option": "IFCI", "isCorrect": false }
     ],
     "explanation": "The Food Corporation of India (FCI) is responsible for procuring, storing, and distributing buffer stock to ensure food security in India."
   },
@@ -14,10 +14,10 @@
     "id": 2,
     "question": "Which is correct?",
     "options": [
-      "All are correct",
-      "HYV–High Yielding Varieties, MSP–Minimum Support Price",
-      "PDS–Public Distribution System, FCI–Food Corporation of India",
-      "MSP–Minimum Support Price, PDS–Public Distribution System"
+      { "option": "All are correct", "isCorrect": true },
+      { "option": "HYV–High Yielding Varieties, MSP–Minimum Support Price", "isCorrect": false },
+      { "option": "PDS–Public Distribution System, FCI–Food Corporation of India", "isCorrect": false },
+      { "option": "MSP–Minimum Support Price, PDS–Public Distribution System", "isCorrect": false }
     ],
     "explanation": "HYV, MSP, PDS, and FCI are all related to India's agricultural and food distribution system, making all options correct."
   },
@@ -25,10 +25,10 @@
     "id": 3,
     "question": "________ extended assistance through its Public Law 480.",
     "options": [
-      "United States of America",
-      "India",
-      "Singapore",
-      "UK"
+      { "option": "United States of America", "isCorrect": true },
+      { "option": "India", "isCorrect": false },
+      { "option": "Singapore", "isCorrect": false },
+      { "option": "UK", "isCorrect": false }
     ],
     "explanation": "Public Law 480 (PL-480), also known as the Food for Peace program, was enacted by the USA to provide food aid to developing countries, including India."
   },
@@ -36,10 +36,10 @@
     "id": 4,
     "question": "________ revolution was born in India paving way for self-sufficiency in food grain production.",
     "options": [
-      "Green Revolution",
-      "Blue Revolution",
-      "White Revolution",
-      "Grey Revolution"
+      { "option": "Green Revolution", "isCorrect": true },
+      { "option": "Blue Revolution", "isCorrect": false },
+      { "option": "White Revolution", "isCorrect": false },
+      { "option": "Grey Revolution", "isCorrect": false }
     ],
     "explanation": "The Green Revolution in India, initiated in the 1960s, led to self-sufficiency in food grains by introducing high-yielding variety (HYV) seeds and modern agricultural techniques."
   },
@@ -47,10 +47,10 @@
     "id": 5,
     "question": "________ is the only state in India to adopt universal PDS.",
     "options": [
-      "Tamil Nadu",
-      "Kerala",
-      "Andhra Pradesh",
-      "Karnataka"
+      { "option": "Tamil Nadu", "isCorrect": true },
+      { "option": "Kerala", "isCorrect": false },
+      { "option": "Andhra Pradesh", "isCorrect": false },
+      { "option": "Karnataka", "isCorrect": false }
     ],
     "explanation": "Tamil Nadu has implemented a universal Public Distribution System (PDS), ensuring subsidized food grains for all residents, unlike other states that follow a targeted approach."
   },
@@ -58,10 +58,10 @@
     "id": 6,
     "question": "________ is the process of providing or obtaining the food necessary for health and growth.",
     "options": [
-      "Nutrition",
-      "Health",
-      "Sanitation",
-      "Security"
+      { "option": "Nutrition", "isCorrect": true },
+      { "option": "Health", "isCorrect": false },
+      { "option": "Sanitation", "isCorrect": false },
+      { "option": "Security", "isCorrect": false }
     ],
     "explanation": "Nutrition refers to the intake of food required for health, growth, and body maintenance, making it a crucial factor in overall well-being."
   }
